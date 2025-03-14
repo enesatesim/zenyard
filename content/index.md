@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Zen Yard
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-Shaka dostummm.
+This is a place where I keep various notes of mine. Some in English, some in Turkish. You may utilize the information here but do not expect them to be the way to truth.
