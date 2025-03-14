@@ -3,7 +3,6 @@ title: Publish Obsidian with Quartz
 draft: false
 tags: []
 ---
-The rest of your content lives here. You can use **Markdown** here :)
 In this guide, I'm explaining how to publish your obsidian notes on GitHub Pages using [Quartz](https://quartz.jzhao.xyz/).
 
 Install [Visual Studio Code](https://code.visualstudio.com/download)
@@ -142,3 +141,13 @@ Settins > Enviroments > Delete
 
 This should finish running (yellow), successfully execute (green) if everything goes right
 [Quartz sync: Mar 14, 2025, 5:08 PM](https://github.com/enesatesim/zenyard/actions/runs/13858369442)Deploy Quartz site to GitHub Pages #2: Commit [dfc0930](https://github.com/enesatesim/zenyard/commit/dfc0930551b7e3e1241de3da9d1d1392b984e361) pushed by [enesatesim](https://github.com/enesatesim)
+
+Properties template for your notes (Copy it as is):
+```
+---
+title: ExampleTitle
+draft: false
+tags:
+  - example-tag
+---
+```
