@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: Publish Obsidian with Quartz
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 The rest of your content lives here. You can use **Markdown** here :)
 In this guide, I'm explaining how to publish your obsidian notes on GitHub Pages using [Quartz](https://quartz.jzhao.xyz/).
