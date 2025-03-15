@@ -137,7 +137,7 @@ If you get an error about not being allowed to deploy to `github-pages` due to
 
 You can do this by going to your Settings page on your GitHub fork and going to the Environments tab and pressing the trash icon. The GitHub action will recreate the environment for you correctly the next time you sync your Quartz.
 
-Settins > Enviroments > Delete
+Settings > Environments > Delete
 
 This should finish running (yellow), successfully execute (green) if everything goes right
 [Quartz sync: Mar 14, 2025, 5:08 PM](https://github.com/enesatesim/zenyard/actions/runs/13858369442)Deploy Quartz site to GitHub Pages #2: Commit [dfc0930](https://github.com/enesatesim/zenyard/commit/dfc0930551b7e3e1241de3da9d1d1392b984e361) pushed by [enesatesim](https://github.com/enesatesim)
